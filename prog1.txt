@@ -1,1 +1,2 @@
 developer 1 created new prog file
+line is modified by developer 2
